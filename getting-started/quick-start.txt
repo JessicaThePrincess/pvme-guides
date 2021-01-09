@@ -187,3 +187,10 @@ Note: You are able to use Invention potions to boost and discover blueprints for
 For a breakdown of quests you should focus on getting done, read them over in <#689234925064290323>. However, you should especially be focused on doing *The Temple at Senntisten*, as it unlocks curses. The *Plague's End* quest is also a high priority due to giving access to higher tier overload potions.
 
 Moreover, it is worth noting that quest themselves are more rewarding the sooner you do them.
+
+.
+>__**World Locations**__
+
+This image shows the location of all worlds. Please try to pick the server in a location closest to you for optimal ping.
+
+<https://i.imgur.com/fhuESmg.png
